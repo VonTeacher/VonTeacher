@@ -19,6 +19,6 @@
 - Learning Python & Next.js
 
 ## Get in touch!
-- [vonteacher.github.io](https://vonteacher.github.io)
 - [LinkedIn](https://www.linkedin.com/in/vaughn-weiss-b88946116/)
+- [[WIP] vonteacher.github.io](https://vonteacher.github.io)
 - Resume Coming Soon!
