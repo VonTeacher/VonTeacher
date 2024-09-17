@@ -10,7 +10,6 @@
 - Singing with my local choir [Cantabile](https://cantabilesingers.org/)
 - Fitness and weightlifting
 - 日本語の勉強（にひんごのべんきょう, studying Japanese)
-- The occasional [voice acting](https://github.com/VonTeacher/voice_acting) for fun
 
 ## What I Work on Professionally
 - Ruby/Rails
