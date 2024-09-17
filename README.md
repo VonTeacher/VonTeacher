@@ -17,7 +17,7 @@
 - Heroku
 - React / JavaScript / TypeScript
 - Docker
-- Learning Python & Next.js
+- [Learning Python](https://twitch.tv/von_teacher)
 
 ## Get in touch!
 - [LinkedIn](https://www.linkedin.com/in/vaughn-weiss-b88946116/)
