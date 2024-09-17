@@ -5,6 +5,7 @@
 - he/him
 
 ## What I'm Working on Personally
+- Learning Python over at [twitch.tv/von_teacher](https://twitch.tv/von_teacher)
 - Hand-tool Woodworking a la [Paul Sellers](https://paulsellers.com/)
 - Singing with my local choir [Cantabile](https://cantabilesingers.org/)
 - Fitness and weightlifting
@@ -21,5 +22,3 @@
 
 ## Get in touch!
 - [LinkedIn](https://www.linkedin.com/in/vaughn-weiss-b88946116/)
-- [[WIP] vonteacher.github.io](https://vonteacher.github.io)
-- Resume Coming Soon!
