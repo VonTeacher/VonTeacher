@@ -3,13 +3,14 @@
 ## What I'm Working on Personally
 - [Visewerk Hand-tool Woodworking](https://visewerk.com) a la [Paul Sellers](https://paulsellers.com/)
 - Fitness and weightlifting
-- 日本語の勉強（にひんごのべんきょう, studying Japanese)
+- (re)Learning Calculus ([Thank you Artemis II!](https://www.nasa.gov/mission/artemis-ii/))
+- 日本語の勉強
 
 ## What I Work on Professionally
-- Ruby/Rails
+- Ruby
+- Rails
 - PostgreSQL
-- Heroku
-- A@S
+- AWS
 - React / JavaScript / TypeScript
 - Docker
 
