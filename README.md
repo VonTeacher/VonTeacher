@@ -7,12 +7,13 @@
 - 日本語の勉強
 
 ## What I Work on Professionally
-- Ruby
-- Rails
-- PostgreSQL
+- Ruby 3+
+- Rails 6/7/8
+- PostgreSQL 16
 - AWS
 - React / JavaScript / TypeScript
 - Docker
+- dbt / Fivetran / Looker
 
 ## Get in touch!
 - [LinkedIn](https://www.linkedin.com/in/vaughn-weiss/)
